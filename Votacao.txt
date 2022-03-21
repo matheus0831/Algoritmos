@@ -1,0 +1,12 @@
+-> Algoritmo para votar - Matheus Santos de Sousa:
+
+Inicio
+   Peça para o usuário inserir sua idade
+   Verifique a idade do usuário
+   Se a idade for maior ou igual a 18 e menor ou igual a 70
+   Mande uma mensagem para o usuário informando que ele é obrigado a votar 
+   Senão se a idade for maior ou igual a 16 e menor que 18 ou maior que 70
+   Mande uma mensagem para o usuário infromando que seu voto é opcional
+   Senão for nenhuma das anteriores
+   Mande uma mensagem informando que o usuário não pode votar
+Fim
